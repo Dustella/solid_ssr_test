@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "dev": "solid-start dev",
-    "build": "solid-start build",
-    "start": "solid-start start"
+    "dev": "vite dev",
+    "build": "vite build",
+    "start": "vite start"
   },
   "type": "module",
   "private": true,
